@@ -170,7 +170,6 @@ depends=(
   uv
 
   #--- Login manager ---
-  sddm
 )
 
 # AUR / optional packages — listed here so pacman knows about them
