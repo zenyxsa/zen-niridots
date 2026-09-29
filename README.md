@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/snowarch/iNiR/main/docs/images/iris-2.31-principal.webp" alt="zen-niridots iRiS desktop" width="900">
+  <img src="docs/images/iris-2.32-principal.png" alt="zen-niridots iRiS 2.32 desktop" width="900">
 </p>
 
 <h1 align="center">zen-niridots</h1>
