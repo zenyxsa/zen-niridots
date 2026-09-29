@@ -1,10 +1,12 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/da6beb4a-ccee-40ba-a372-5eea77b595f8" alt="zen-niridots" width="800">
+  <img src="https://raw.githubusercontent.com/snowarch/iNiR/main/docs/images/iris-2.31-principal.webp" alt="zen-niridots iRiS desktop" width="900">
 </p>
 
 <h1 align="center">zen-niridots</h1>
 
 <p align="center">
+  <b>A customized fork of iNiR — a complete desktop shell for Niri, built on Quickshell</b>
+</p><p align="center">
   <b>A customized fork of iNiR — a complete desktop shell for Niri, built on Quickshell</b>
 </p>
 
@@ -104,6 +106,20 @@ zen-niridots exists as a customized fork of iNiR with changes maintained separat
 ---
 
 ## Screenshots
+
+<details open>
+<summary><b>iRiS</b>: Island, desktop pieces, cards and Dock</summary>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/snowarch/iNiR/main/docs/images/iris-2.31-desktop.webp" alt="iRiS desktop layout" width="49%">
+  <img src="https://raw.githubusercontent.com/snowarch/iNiR/main/docs/images/iris-2.31-card.webp" alt="iRiS card surface" width="49%">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/snowarch/iNiR/main/docs/images/iris-2.31-dock.webp" alt="iRiS Dock and edge layout" width="99%">
+</p>
+
+</details>
 
 <details open>
 <summary><b>Material ii</b>: floating bar, sidebars, Material Design aesthetic</summary>
