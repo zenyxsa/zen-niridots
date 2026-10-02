@@ -9,15 +9,10 @@ My customized iNiR desktop setup running on Niri.
 
 </div>
 
-<p align="center">
-  <img src="docs/images/iris-2.32-principal.png" alt="zen-niridots iRiS 2.32 desktop" width="900">
-</p>
 
 <h1 align="center">zen-niridots</h1>
 
 <p align="center">
-  <b>A customized fork of iNiR — a complete desktop shell for Niri, built on Quickshell</b>
-</p><p align="center">
   <b>A customized fork of iNiR — a complete desktop shell for Niri, built on Quickshell</b>
 </p>
 
@@ -116,10 +111,15 @@ zen-niridots exists as a customized fork of iNiR with changes maintained separat
 
 ---
 
+</p>
+
 ## Screenshots
 
 <details open>
 <summary><b>iRiS</b>: Island, desktop pieces, cards and Dock</summary>
+<p align="center">
+  <img src="docs/images/iris-2.32-principal.png" alt="zen-niridots iRiS 2.32 desktop" width="900">
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/snowarch/iNiR/main/docs/images/iris-2.31-desktop.webp" alt="iRiS desktop layout" width="49%">
