@@ -19,7 +19,6 @@ My customized iNiR desktop setup running on Niri.
 <p align="center">
   <a href="https://github.com/zenyxsa/zen-niridots/releases"><img src="https://img.shields.io/badge/based--on-iNiR%202.30.0-blue?style=flat-square" alt="Based on iNiR 2.30.0"></a>
   <a href="https://github.com/zenyxsa/zen-niridots/stargazers"><img src="https://img.shields.io/github/stars/zenyxsa/zen-niridots?style=flat-square" alt="Stars"></a>
-  <a href="https://discord.gg/pAPTfAhZUJ"><img src="https://img.shields.io/badge/Discord-join-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-GPL--3.0-green?style=flat-square" alt="License"></a>
 </p>
 
@@ -27,7 +26,7 @@ My customized iNiR desktop setup running on Niri.
   <a href="https://github.com/snowarch/iNiR/wiki/INSTALL">Install</a> &bull;
   <a href="https://github.com/snowarch/iNiR/wiki/KEYBINDS">Keybinds</a> &bull;
   <a href="https://github.com/snowarch/iNiR/wiki/IPC">IPC Reference</a> &bull;
-  <a href="https://discord.gg/pAPTfAhZUJ">Discord</a> &bull;
+
   <a href="CONTRIBUTING.md">Contributing</a>
 </p>
 
@@ -92,7 +91,7 @@ Wayland → GPU
 
 It's a personal project that grew into a complete desktop shell. The upstream iNiR project is used daily by its maintainers and community, but things can still break sometimes.
 
-If something doesn't work, `inir doctor` can fix many common issues. The upstream Discord is also available for discussion and troubleshooting.
+If something doesn't work, `inir doctor` can fix many common issues.
 
 ### Why does it exist?
 
@@ -358,7 +357,7 @@ inir repair                     # doctor + restart + filtered log check
 ./setup rollback                # undo the last update
 ```
 
-Check [Limitations](https://github.com/snowarch/iNiR/wiki/LIMITATIONS) before opening an issue. If you'd rather just ask someone, the upstream Discord is available for discussion and support.
+Check [Limitations](https://github.com/snowarch/iNiR/wiki/LIMITATIONS) before opening an issue.
 
 ---
 
