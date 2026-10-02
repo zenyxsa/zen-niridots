@@ -3,7 +3,11 @@
 
 My customized iNiR desktop setup running on Niri.
 
-https://github.com/user-attachments/assets/4ee67d99-849c-4490-ba6c-dac3378af208
+<div align="center">
+
+<video src="https://github.com/user-attachments/assets/4ee67d99-849c-4490-ba6c-dac3378af208" controls width="900"></video>
+
+</div>
 
 <p align="center">
   <img src="docs/images/iris-2.32-principal.png" alt="zen-niridots iRiS 2.32 desktop" width="900">
