@@ -132,18 +132,18 @@ WSettingsPage {
         
         WSettingsButton {
             label: Translation.tr("GitHub Repository")
-            description: "github.com/snowarch/inir"
+            description: "github.com/zenyxsa/zen-niridots"
             icon: "globe-search"
             buttonText: Translation.tr("Open")
-            onButtonClicked: Qt.openUrlExternally("https://github.com/snowarch/inir")
+            onButtonClicked: Qt.openUrlExternally("https://github.com/zenyxsa/zen-niridots")
         }
 
         WSettingsButton {
             label: Translation.tr("Documentation")
-            description: "github.com/snowarch/inir/wiki"
+            description: "github.com/zenyxsa/zen-niridots/wiki"
             icon: "library"
             buttonText: Translation.tr("Open")
-            onButtonClicked: Qt.openUrlExternally("https://github.com/snowarch/inir/wiki")
+            onButtonClicked: Qt.openUrlExternally("https://github.com/zenyxsa/zen-niridots/wiki")
         }
         
         WSettingsButton {

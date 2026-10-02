@@ -247,7 +247,7 @@ ContentPage {
                     }
 
                     StyledText {
-                        text: "[https://github.com/snowarch/inir](https://github.com/snowarch/inir)"
+                        text: "[https://github.com/zenyxsa/zen-niridots](https://github.com/zenyxsa/zen-niridots)"
                         font.pixelSize: Appearance.font.pixelSize.small
                         color: Appearance.colors.colPrimary
                         textFormat: Text.MarkdownText
@@ -271,13 +271,13 @@ ContentPage {
                 RippleButtonWithIcon {
                     materialIcon: "auto_stories"
                     mainText: Translation.tr("Documentation")
-                    onClicked: Qt.openUrlExternally("https://github.com/snowarch/inir/wiki")
+                    onClicked: Qt.openUrlExternally("https://github.com/zenyxsa/zen-niridots/wiki")
                 }
 
                 RippleButtonWithIcon {
                     materialIcon: "bug_report"
                     mainText: Translation.tr("Issues")
-                    onClicked: Qt.openUrlExternally("https://github.com/snowarch/inir/issues")
+                    onClicked: Qt.openUrlExternally("https://github.com/zenyxsa/zen-niridots/issues")
                 }
 
             }
